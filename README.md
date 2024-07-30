@@ -7,9 +7,9 @@ I'm a **Senior Full-Stack Developer** with:
 - ⭐️ **Advanced expertise** in database design & modeling, query optimization, and performance tuning.
 - ⭐️ **Proficiency** in web scraping with anti-captcha technologies.
 
-💡 Choosing me will be the perfect start to your journey towards success.  
-💡 Feel free to reach out with any questions or to discuss your project further.  
-💡 My wish is your great success, and I will give my best to achieve it.
+      💡 Choosing me will be the perfect start to your journey towards success.  
+      💡 Feel free to reach out with any questions or to discuss your project further.  
+      💡 My wish is your great success, and I will give my best to achieve it.
 
 You can:
 - ⚡️ Experience top-tier, flawless web applications that effortlessly scale with your growing user base.
