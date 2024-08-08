@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub House! 🎉
 
-I'm a **Senior Full-Stack Developer** with a passion for crafting top-notch web applications and systems. Here’s a snapshot of my expertise:
+I'm a **Senior Full-Stack Developer** with a passion for crafting top-notch web applications and systems and **Web Scraping Expert**. Here’s a snapshot of my expertise:
 
 ### ⭐️ **Experience and Expertise**
 
